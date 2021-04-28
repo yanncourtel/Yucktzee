@@ -35,7 +35,9 @@ Many options can be added to this Kata and it can be extended in various ways. H
 - Add a computer to play against.
 - Add one bonus roll per player and per game to use it at any time.
 - Add the possibility to see a game roll history using the oustide-in TDD approach (with storing the intermediary rolls, etc)
-	examle :
+
+=> An example 
+	game history :
 
 	---
 	Player 1 (loser) with 141 points
