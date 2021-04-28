@@ -5,8 +5,8 @@ A great refactoring Kata.
 
 # Goal
 
-=> The main goal is to refactor this Yahtzee game and to fix some bugs that are left in the game.
-=> Another goal is to add some unit tests and possibly some acceptance tests.
+- The main goal is to refactor this Yahtzee game and to fix some bugs that are left in the game.
+- Another goal is to add some unit tests and possibly some acceptance tests.
 
 # Instructions
 
@@ -31,10 +31,10 @@ Second solution : Recreate the Yahtzee from scratch with an "outside-in" approac
 
 Many options can be added to this Kata and it can be extended in various ways. Here are a few examples :
 
--> Add a multi-player mode (same keyboard, double display in the main form)
--> Add a computer to play against.
--> Add one bonus roll per player and per game to use it at any time.
--> Add the possibility to see a game roll history using the oustide-in TDD approach (with storing the intermediary rolls, etc)
+- Add a multi-player mode (same keyboard, double display in the main form)
+- Add a computer to play against.
+- Add one bonus roll per player and per game to use it at any time.
+- Add the possibility to see a game roll history using the oustide-in TDD approach (with storing the intermediary rolls, etc)
 	examle :
 
 	---
